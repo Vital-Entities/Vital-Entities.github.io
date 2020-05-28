@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-family: 'Basis grotesque', 'Helvetica Neue', sans-serif;
+}
+
+nav {
+    margin:0;
+    border-bottom: 1px black solid;
+}
+
+#logo {
+    padding-top: 100px;
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+}
